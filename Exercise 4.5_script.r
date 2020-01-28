@@ -33,3 +33,6 @@ Exersise_Answer_1a <- laminaria %>%
   group_by(site,region,stipe_length) %>% 
   summarise(max_sm = max(stipe_mass, na.rm = TRUE)) #summarising the largest stipe mass, excluding Na's
   
+# Neat scripts
+# Good start! keep it up
+# Ovrall mark for day 1: 8/10
